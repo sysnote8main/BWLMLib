@@ -1,0 +1,10 @@
+{
+  "package": "com.github.sysnote8main.bwlmlib.mixin",
+  "refmap": "mixins.bwlmlib.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [],
+  "server": []
+}
